@@ -1,0 +1,28 @@
+觀星書齋 · FIRMAMENT
+AI 使用聲明 / AI USAGE DECLARATION / DECLARACIÓN DE USO POR IA
+https://www.firmament.tw/
+作者 Author: 狄浩瀚 Di Hao Han · Biomag S.L.U.
+Última actualización: 2026-09-12
+
+1. 範圍 · SCOPE · ALCANCE
+本網域下的一切內容：文字、解讀、圖表、星圖、插畫、牌卡、課程素材與原始碼。
+All content served under this domain: texts, readings, charts, sky plates, illustrations, cards, course material and source code.
+Todo el contenido servido bajo este dominio: textos, lecturas, gráficos, láminas del cielo, ilustraciones, cartas, material de cursos y código fuente.
+
+2. 權利保留 · RESERVATION OF RIGHTS · RESERVA DE DERECHOS
+著作權人明確保留文字與資料探勘之權利（歐盟指令 2019/790 第 4 條第 3 項；中華民國著作權法；西班牙智慧財產權法）。
+The rightsholder expressly reserves text and data mining rights under Art. 4(3) of Directive (EU) 2019/790, the Copyright Act of the Republic of China (Taiwan) and the Spanish Ley de Propiedad Intelectual.
+El titular reserva expresamente los derechos de minería de textos y datos (Art. 4(3) de la Directiva (UE) 2019/790, Ley de Propiedad Intelectual española y Copyright Act de Taiwán).
+
+不得用於 · May not be used for · No puede usarse para:
+  - 訓練、微調或蒸餾任何生成式 AI 或機器學習模型 · training, fine-tuning or distillation of AI/ML models
+  - 建立資料集、語料庫、向量資料庫 · datasets, corpora, vector databases, embedding indexes
+  - RAG、AI 摘要、AI 概覽 · retrieval-augmented generation, AI summaries or overviews
+  - 圖像模型的風格學習或重製 · style learning or image reproduction by image models
+  - 任何自動化的重製、改作或再散布 · any automated reproduction, adaptation or redistribution
+
+傳統搜尋引擎索引與連結不受限制。Ordinary search-engine indexing and linking is welcome. La indexación y el enlace tradicionales son bienvenidos.
+
+3. 技術表達 · TECHNICAL EXPRESSION
+/robots.txt · /.well-known/tdmrep.json · X-Robots-Tag: noai, noimageai, noml · <meta name="tdm-reservation" content="1">
+Circumventing these signals, including by an undeclared or disguised user agent, constitutes unauthorised access. The absence of enforcement implies no licence.
